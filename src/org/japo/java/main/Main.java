@@ -28,8 +28,8 @@ public final class Main {
     public static void main(String[] args) {
 
         // Generar dato
-       boolean resultado = RND.nextBoolean();
+        boolean resultado = RND.nextBoolean();
 
-        System.out.printf( "Aptitud satisfactoria .....:  %b.%n", resultado);
+        System.out.printf("Aptitud satisfactoria .....:  %b.%n", resultado);
     }
 }
